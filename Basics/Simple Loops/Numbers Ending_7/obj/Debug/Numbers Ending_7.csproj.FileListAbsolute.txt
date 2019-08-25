@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\bin\Debug\Numbers Ending_7.exe.config
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\bin\Debug\Numbers Ending_7.exe
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\bin\Debug\Numbers Ending_7.pdb
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\obj\Debug\Numbers Ending_7.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\obj\Debug\Numbers Ending_7.exe
+C:\Users\ininov\source\repos\Simple Loops\Numbers Ending_7\obj\Debug\Numbers Ending_7.pdb

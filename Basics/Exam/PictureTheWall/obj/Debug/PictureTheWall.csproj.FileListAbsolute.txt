@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Exam\PictureTheWall\bin\Debug\PictureTheWall.exe.config
+C:\Users\ininov\source\repos\Exam\PictureTheWall\bin\Debug\PictureTheWall.exe
+C:\Users\ininov\source\repos\Exam\PictureTheWall\bin\Debug\PictureTheWall.pdb
+C:\Users\ininov\source\repos\Exam\PictureTheWall\obj\Debug\PictureTheWall.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Exam\PictureTheWall\obj\Debug\PictureTheWall.exe
+C:\Users\ininov\source\repos\Exam\PictureTheWall\obj\Debug\PictureTheWall.pdb

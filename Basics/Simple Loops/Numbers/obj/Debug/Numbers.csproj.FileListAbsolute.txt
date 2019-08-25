@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Loops\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\ininov\source\repos\Simple Loops\Numbers\bin\Debug\Numbers.exe
+C:\Users\ininov\source\repos\Simple Loops\Numbers\bin\Debug\Numbers.pdb
+C:\Users\ininov\source\repos\Simple Loops\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Simple Loops\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Loops\Numbers\obj\Debug\Numbers.exe
+C:\Users\ininov\source\repos\Simple Loops\Numbers\obj\Debug\Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\bin\Debug\Even_Odd_sum.exe.config
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\bin\Debug\Even_Odd_sum.exe
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\bin\Debug\Even_Odd_sum.pdb
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\obj\Debug\Even_Odd_sum.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\obj\Debug\Even_Odd_sum.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\obj\Debug\Even_Odd_sum.exe
+C:\Users\ininov\source\repos\Simple Loops\Even_Odd_sum\obj\Debug\Even_Odd_sum.pdb

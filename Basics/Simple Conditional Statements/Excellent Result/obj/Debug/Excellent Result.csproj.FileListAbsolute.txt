@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache

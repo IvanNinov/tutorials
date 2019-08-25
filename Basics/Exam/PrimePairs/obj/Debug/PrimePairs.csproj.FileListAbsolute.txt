@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Exam\PrimePairs\bin\Debug\PrimePairs.exe.config
+C:\Users\ininov\source\repos\Exam\PrimePairs\bin\Debug\PrimePairs.exe
+C:\Users\ininov\source\repos\Exam\PrimePairs\bin\Debug\PrimePairs.pdb
+C:\Users\ininov\source\repos\Exam\PrimePairs\obj\Debug\PrimePairs.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Exam\PrimePairs\obj\Debug\PrimePairs.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Exam\PrimePairs\obj\Debug\PrimePairs.exe
+C:\Users\ininov\source\repos\Exam\PrimePairs\obj\Debug\PrimePairs.pdb

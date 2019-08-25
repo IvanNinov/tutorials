@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.pdb
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.exe
+C:\Users\ininov\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.pdb

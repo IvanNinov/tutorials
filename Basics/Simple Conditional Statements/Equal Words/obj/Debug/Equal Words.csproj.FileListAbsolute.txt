@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\bin\Debug\Equal Words.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Equal Words\obj\Debug\Equal Words.pdb

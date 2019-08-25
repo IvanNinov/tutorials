@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Exam\Hearthstone\bin\Debug\Hearthstone.exe.config
+C:\Users\ininov\source\repos\Exam\Hearthstone\bin\Debug\Hearthstone.exe
+C:\Users\ininov\source\repos\Exam\Hearthstone\bin\Debug\Hearthstone.pdb
+C:\Users\ininov\source\repos\Exam\Hearthstone\obj\Debug\Hearthstone.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Exam\Hearthstone\obj\Debug\Hearthstone.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Exam\Hearthstone\obj\Debug\Hearthstone.exe
+C:\Users\ininov\source\repos\Exam\Hearthstone\obj\Debug\Hearthstone.pdb

@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Exam\Slord\bin\Debug\Slord.exe.config
+C:\Users\ininov\source\repos\Exam\Slord\bin\Debug\Slord.exe
+C:\Users\ininov\source\repos\Exam\Slord\bin\Debug\Slord.pdb
+C:\Users\ininov\source\repos\Exam\Slord\obj\Debug\Slord.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Exam\Slord\obj\Debug\Slord.exe
+C:\Users\ininov\source\repos\Exam\Slord\obj\Debug\Slord.pdb
+C:\Users\ininov\source\repos\Exam\Slord\obj\Debug\Slord.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\bin\Debug\Even or Odd.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\bin\Debug\Even or Odd.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\bin\Debug\Even or Odd.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\obj\Debug\Even or Odd.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\obj\Debug\Even or Odd.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Even or Odd\obj\Debug\Even or Odd.csprojResolveAssemblyReference.cache

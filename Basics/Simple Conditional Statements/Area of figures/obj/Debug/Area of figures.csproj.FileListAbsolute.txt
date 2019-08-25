@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\bin\Debug\Area of figures.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\bin\Debug\Area of figures.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\bin\Debug\Area of figures.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\obj\Debug\Area of figures.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\obj\Debug\Area of figures.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Area of figures\obj\Debug\Area of figures.pdb

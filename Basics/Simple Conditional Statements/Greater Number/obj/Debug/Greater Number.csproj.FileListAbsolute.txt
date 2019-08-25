@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\bin\Debug\Greater Number.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Greater Number\obj\Debug\Greater Number.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\bin\Debug\newNumbers.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\bin\Debug\newNumbers.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\bin\Debug\newNumbers.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\obj\Debug\newNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\obj\Debug\newNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\obj\Debug\newNumbers.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\newNumbers\obj\Debug\newNumbers.pdb

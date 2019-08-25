@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Exam\CSGO\bin\Debug\CSGO.exe.config
+C:\Users\ininov\source\repos\Exam\CSGO\bin\Debug\CSGO.exe
+C:\Users\ininov\source\repos\Exam\CSGO\bin\Debug\CSGO.pdb
+C:\Users\ininov\source\repos\Exam\CSGO\obj\Debug\CSGO.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Exam\CSGO\obj\Debug\CSGO.exe
+C:\Users\ininov\source\repos\Exam\CSGO\obj\Debug\CSGO.pdb

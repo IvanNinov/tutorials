@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\bin\Debug\Speed Info.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Speed Info\obj\Debug\Speed Info.pdb

@@ -1,0 +1,6 @@
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.exe.config
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\bin\Debug\Metric Converter.pdb
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.exe
+C:\Users\ininov\source\repos\Simple Conditional Statements\Metric Converter\obj\Debug\Metric Converter.pdb

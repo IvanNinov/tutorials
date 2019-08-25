@@ -1,0 +1,7 @@
+C:\Users\ininov\source\repos\Simple Loops\Min Number\bin\Debug\Min Number.exe.config
+C:\Users\ininov\source\repos\Simple Loops\Min Number\bin\Debug\Min Number.exe
+C:\Users\ininov\source\repos\Simple Loops\Min Number\bin\Debug\Min Number.pdb
+C:\Users\ininov\source\repos\Simple Loops\Min Number\obj\Debug\Min Number.csprojResolveAssemblyReference.cache
+C:\Users\ininov\source\repos\Simple Loops\Min Number\obj\Debug\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\ininov\source\repos\Simple Loops\Min Number\obj\Debug\Min Number.exe
+C:\Users\ininov\source\repos\Simple Loops\Min Number\obj\Debug\Min Number.pdb
