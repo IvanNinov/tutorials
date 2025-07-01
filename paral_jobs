@@ -1,0 +1,22 @@
+import concurrent.futures
+import time
+
+# Simulated task
+def task(n):
+    print(f"Starting task {n}")
+    time.sleep(20)  # simulate a delay
+    print(f"Finished task {n}")
+    return n
+
+def run_parallel_jobs(jobs, max_concurrent):
+    results = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_concurrent) as executor:
+        futures = [executor.submit(task, job) for job in jobs]
+        for future in concurrent.futures.as_completed(futures):
+            results.append(future.result())
+    return results
+
+if __name__ == "__main__":
+    jobs_to_run = list(range(10))  # 10 jobs
+    max_parallel_jobs = 3          # Throttle to 3 at a time
+    run_parallel_jobs(jobs_to_run, max_parallel_jobs)
