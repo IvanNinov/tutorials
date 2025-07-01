@@ -16,6 +16,7 @@ def run_parallel_jobs(jobs, max_concurrent):
             results.append(future.result())
     return results
 
+
 if __name__ == "__main__":
     jobs_to_run = list(range(10))  # 10 jobs
     max_parallel_jobs = 3          # Throttle to 3 at a time
