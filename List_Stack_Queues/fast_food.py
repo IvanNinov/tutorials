@@ -10,7 +10,6 @@ while sequence:
         print(*sequence, sep=" ")
         break
     total_sum += sequence.popleft()
-
-if not sequence:    
+else:
     print("Orders complete")
 
