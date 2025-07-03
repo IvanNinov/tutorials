@@ -1,0 +1,15 @@
+from collections import deque
+
+huge_box = deque([int(x) for x in input().split()])
+rack_capacity = int(input())
+
+cur_rack_sum = 0
+total_rack_number = 1
+
+while huge_box:
+    if cur_rack_sum + huge_box[-1] > rack_capacity:
+        total_rack_number += 1
+        cur_rack_sum = 0
+        continue
+    cur_rack_sum += huge_box.pop()
+print(total_rack_number)
