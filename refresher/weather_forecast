@@ -1,0 +1,37 @@
+{
+  "location": {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "coordinates": {
+      "latitude": 42.6975,
+      "longitude": 23.3242
+    }
+  },
+  "current_weather": {
+    "temperature_celsius": 14.3,
+    "humidity_percent": 67,
+    "wind_speed_kph": 12.5,
+    "condition": "Partly Cloudy",
+    "observation_time": "2025-10-26T08:15:00+02:00"
+  },
+  "forecast": [
+    {
+      "date": "2025-10-27",
+      "high_celsius": 18,
+      "low_celsius": 9,
+      "condition": "Sunny"
+    },
+    {
+      "date": "2025-10-28",
+      "high_celsius": 16,
+      "low_celsius": 8,
+      "condition": "Rain Showers"
+    },
+    {
+      "date": "2025-10-29",
+      "high_celsius": 15,
+      "low_celsius": 7,
+      "condition": "Overcast"
+    }
+  ]
+}
