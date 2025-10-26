@@ -1,0 +1,110 @@
+import os
+import json
+from dataclasses import dataclass
+from typing import List
+
+
+#Json format parsing
+
+
+@dataclass
+class Coordinates():
+    latitude:float
+    longitude:float
+
+
+@dataclass
+class ForecastEntry():
+    date: str
+    high_celsius: float
+    low_celsius: float
+    condition:str
+
+
+@dataclass
+class Location():
+    city:set
+    country:str
+    coordinates: Coordinates
+
+
+@dataclass
+class Current_weather():
+    temperature_celsius: float
+    humidity_percent: int
+    wind_speed_kph: float
+    condition: str
+    observation_time: str
+
+
+@dataclass
+class WeatherData():
+    forecast: List[ForecastEntry]
+
+
+@dataclass
+class Weather():
+    location: Location
+    current_weather: Current_weather
+    weather_data: WeatherData
+
+## end of parsing
+
+
+def load_weather_from_json(filepath: str) -> Weather:
+    try:
+        with open(filepath, 'r') as file:
+            data = json.load(file)
+
+        return Weather(
+                location=Location(
+                    city=data['location']['city'],
+                    country=data['location']['country'],
+                    coordinates=Coordinates(
+                        latitude=data['location']['coordinates']['latitude'],
+                        longitude=data['location']['coordinates']['longitude'],
+                    )
+                ),
+                current_weather= Current_weather(
+                        temperature_celsius=data['current_weather']['temperature_celsius'],
+                        humidity_percent=data['current_weather']['humidity_percent'],
+                        wind_speed_kph=data['current_weather']['wind_speed_kph'],
+                        condition=data['current_weather']['condition'],
+                        observation_time=data['current_weather']['observation_time'],
+                ),
+                weather_data=WeatherData(
+                    forecast= [
+                        ForecastEntry(
+                                date=entry['date'],
+                                high_celsius=entry['high_celsius'],
+                                low_celsius=entry['low_celsius'],
+                                condition=entry['condition']
+                        )
+                        for entry in data['forecast']
+                    ]
+                ),
+            )
+    
+    except FileNotFoundError:
+        print(f"File not found. Please check the filename and path. => {os.getcwd()}")
+
+
+
+def main():
+    weather = load_weather_from_json('tutorials/refresher/weather_forecast')
+    print(weather.location.city)
+    desired_str_by_date = [entry for entry in weather.weather_data.forecast if entry.date=='2025-10-27']
+
+    forecast_entry = next(
+        (entry for entry in weather.weather_data.forecast if entry.date == '2025-10-27'),
+        None
+    )
+
+    if forecast_entry:
+        print(f"Forecast for {forecast_entry.date}:")
+        print(f"High: {forecast_entry.high_celsius}°C")
+        print(f"Low: {forecast_entry.low_celsius}°C")
+        print(f"Condition: {forecast_entry.condition}")
+    
+if __name__ == "__main__":
+    main()
