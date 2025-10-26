@@ -92,19 +92,25 @@ def load_weather_from_json(filepath: str) -> Weather:
 
 def main():
     weather = load_weather_from_json('tutorials/refresher/weather_forecast')
-    print(weather.location.city)
-    desired_str_by_date = [entry for entry in weather.weather_data.forecast if entry.date=='2025-10-27']
+    target_date = '2025-10-28'
+    desired_str_by_date = [entry for entry in weather.weather_data.forecast if entry.date== target_date]
 
     forecast_entry = next(
-        (entry for entry in weather.weather_data.forecast if entry.date == '2025-10-27'),
+        (entry for entry in weather.weather_data.forecast if entry.date == target_date),
         None
     )
+
+    if not forecast_entry and weather.weather_data.forecast:
+        forecast_entry = weather.weather_data.forecast[0]
+        print(f"No entry found for the specified date. Displaying the first available forecast entry instead.")
 
     if forecast_entry:
         print(f"Forecast for {forecast_entry.date}:")
         print(f"High: {forecast_entry.high_celsius}°C")
         print(f"Low: {forecast_entry.low_celsius}°C")
         print(f"Condition: {forecast_entry.condition}")
+    else:
+        print("No forecast entry found for the specified date.")
     
 if __name__ == "__main__":
     main()
