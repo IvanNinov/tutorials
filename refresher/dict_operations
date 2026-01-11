@@ -91,7 +91,7 @@ def load_weather_from_json(filepath: str) -> Weather:
 
 
 def main():
-    weather = load_weather_from_json('tutorials/refresher/weather_forecast')
+    weather = load_weather_from_json('./weather_forecast')
     target_date = '2025-10-28'
     desired_str_by_date = [entry for entry in weather.weather_data.forecast if entry.date== target_date]
 
