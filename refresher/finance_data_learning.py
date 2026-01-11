@@ -1,18 +1,16 @@
 from datetime import datetime
 import requests
 import yfinance as yf
-from pandas_datareader.base import _BaseReader
-from pandas_datareader import data as wb
+#from pandas_datareader import data as wb
 import pandas as pd
 
 # Custom Marketstack Reader
-class MarketstackReader(_BaseReader):
+class MarketstackReader:
     def __init__(self, symbols, start=None, end=None, api_key=None):
         self.symbols = symbols
         self.start = start
         self.end = end
         self.api_key = api_key
-        super().__init__(symbols, start, end)
 
     def read(self):
         url = f"http://api.marketstack.com/v2/eod"
@@ -29,13 +27,13 @@ class MarketstackReader(_BaseReader):
         df.set_index('date', inplace=True)
         return df
 
-api_key = "YOUR_MARKETSTACK_API_KEY"
-reader = MarketstackReader(
-    symbols="AAPL",
-    start=datetime(2023, 1, 1),
-    end=datetime(2023, 1, 31),
-    api_key=api_key
-)
+# api_key = "YOUR_MARKETSTACK_API_KEY"
+# reader = MarketstackReader(
+#     symbols="AAPL",
+#     start=datetime(2023, 1, 1),
+#     end=datetime(2023, 1, 31),
+#     api_key=api_key
+# )
 
 #df = reader.read()
 #print(df.head())
